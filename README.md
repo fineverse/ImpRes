@@ -1,5 +1,5 @@
 # **ImpRes: Implicit Residual Diffusion Models for Image Super-Resolution**
-This repository is dedicated to the project "ImpRes: Implicit Residual Diffusion Models for Image Super-Resolution" by Shiyun Zhang, Xing Deng, Haijian Shao, and Yingtao Jiang. The project introduces an innovative approach to Single Image Super-Resolution (SISR) using Implicit Residual Diffusion Models.
+This repository is dedicated to the project "ImpRes: Implicit Residual Diffusion Models for Image Super-Resolution" by Shiyun Zhang, Xing Deng, Haijian Shao, and others. The project introduces an innovative approach to Single Image Super-Resolution (SISR) using Implicit Residual Diffusion Models.
 
 ## Overview   
 The ImpRes model addresses common challenges in SISR, such as high-frequency texture distortion, excessive smoothing, and scale inconsistency. It enhances model convergence speed and high-frequency detail recovery through a residual prediction mechanism. Additionally, it employs a high-frequency guidance module and Static Implicit Neural Representation (SINR) to achieve precise content perception and mitigate over-smoothing.
